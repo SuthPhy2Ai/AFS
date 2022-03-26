@@ -12,4 +12,5 @@ The supporting materials of cuprate superconducting materials above liquid nitro
 | Feature | Specific Meaning |   
 | :----:| :----: |  
 | Number | The atomic number of the element |  
-| Mendeleev Number | The Mendeleev number of the element |  
+| MendeleevNumber | The mendeleev number of the element |  
+| AtomicWeight | Mass of the atom |  
