@@ -1,2 +1,2 @@
-# AFS
-The supporting materials of cuprate superconducting materials above liquid nitrogen temperature from machine learning
+# AFS  
+##The supporting materials of cuprate superconducting materials above liquid nitrogen temperature from machine learning
