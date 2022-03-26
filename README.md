@@ -7,7 +7,8 @@ The supporting materials of cuprate superconducting materials above liquid nitro
 ⑤ Ensure fillfeature.csv (feature file) and data.CSV (require only the column of chemical formula and no other redundant characters) in the same folder as EXE software.   
 ⑥ Run the software, input ICQMSicqms, get out.  CSV file, namely extraction of chemical formula characteristics.  
 ⑦ Copy the input case in example, copy EXe into the folder to run, and get the out.csv file.  
-⑧ It is noted that when Fillfeature appears in data.CSV file.  CSV features cannot be extracted, we use the common method of 0 to fill, when abnormal data such as the denominator is 0, the feature is calculated as -1. 
+⑧ It is noted that when Fillfeature appears in data.CSV file.  CSV features cannot be extracted, we use the common method of 0 to fill, when abnormal data such as the denominator is 0, the feature is calculated as -1.   
+
 | Feature | Specific Meaning | 
 | :----:| :----: | :----: |
 | Number | The atomic number of the element |
