@@ -7,7 +7,7 @@ The supporting materials of cuprate superconducting materials above liquid nitro
 - ⑤ Ensure Fillfeature.csv (feature file) and data.csv (require only the column of chemical formula and no other redundant characters,see example) in the same folder as AFS.exe.   
 - ⑥ Double click AFS.exe, and select the mode for extracting features **input: ICQMSicqms**, so get the out.csv file.  
 
-**Abbreviations vs. Physical Property Characteristics
+**Abbreviations vs. Physical Property Characteristics**
 | Feature | Specific Meaning |   
 | :----:| :----: |  
 | Number | The atomic number of the element |  
@@ -19,5 +19,6 @@ The supporting materials of cuprate superconducting materials above liquid nitro
 | CovalentRadius | Covalent bond radius of atoms | 
 | Electronegativity | Mass of the atom | 
 | AtomicWeight | Electronegativity of atoms | 
-| ... | ... | **
+| ... | ... | 
+See the Supporting Information of **Cuprate superconducting materials above liquid nitrogen temperature from machine learning** for complete table.
 
