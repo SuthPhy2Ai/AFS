@@ -20,5 +20,6 @@ The supporting materials of cuprate superconducting materials above liquid nitro
 | Electronegativity | Mass of the atom | 
 | AtomicWeight | Electronegativity of atoms | 
 | ... | ... | 
+  
 See the Supporting Information of **Cuprate superconducting materials above liquid nitrogen temperature from machine learning** for complete table.
 
