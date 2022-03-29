@@ -13,3 +13,11 @@ The supporting materials of cuprate superconducting materials above liquid nitro
 | Number | The atomic number of the element |  
 | MendeleevNumber | The mendeleev number of the element |  
 | AtomicWeight | Mass of the atom |  
+| MeltingT  | Melting point of the elemental crystal | 
+| Column | The number of columns in the periodic table | 
+| Row | The number of rows in the periodic table | 
+| CovalentRadius | Covalent bond radius of atoms | 
+| Electronegativity | Mass of the atom | 
+| AtomicWeight | Electronegativity of atoms | 
+| ... | ... | 
+
