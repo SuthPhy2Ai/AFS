@@ -23,5 +23,4 @@ The supporting materials of cuprate superconducting materials above liquid nitro
   
 See the Supporting Information of **Cuprate superconducting materials above liquid nitrogen temperature from machine learning** for complete table.
 
-For the **model.summary()** of tensorflow including "=====", which makes .ipynb ca not preview online.
-Download the .ipynb or browse .PDF online
+For the **model.summary()** of tensorflow including "=====", which makes .ipynb can not preview online. Plase download the .ipynb or browse .PDF online for detial.
