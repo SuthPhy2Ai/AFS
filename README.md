@@ -1,7 +1,7 @@
 # Atomic Feature Set (AFS)  
 The supporting materials of cuprate superconducting materials above liquid nitrogen temperature from machine learning  
 - ① This software is written as a simple and practical program, which does not need other supporting environment, but can be used directly on the Windows system.  
-- ② The software is used to extract the characteristics of simple chemical formula, temporarily **does not support** -- **"chemical formula with brackets, hydrate symbols, symbols such as electron valence"** if you have special needs can contact the author, contact information see the console.  
+- ② The software is used to extract the characteristics of simple chemical formula, temporarily **does not support** -- **"chemical formula with brackets, hydrate symbols, symbols such as electron valence"** 
 - ③ The limit of features dimension are 1000 (the results follows your feature file), 10000 is the most characters per line, you can not only use the feature file (see elemFeature) of the basic nature of element physics we provide but also customize it to add the features you want.  
 - ④ Name the chemical formula file and feature file as data.csv and Fillfeature.csv respectively. Make sure your files are encoded in **UTF-8**, otherwise the first line may be garbled.  
 - ⑤ Ensure Fillfeature.csv (feature file) and data.csv (require only the column of chemical formula and no other redundant characters,see example) in the same folder as AFS.exe.   
@@ -17,9 +17,16 @@ The supporting materials of cuprate superconducting materials above liquid nitro
 | Column | The number of columns in the periodic table | 
 | Row | The number of rows in the periodic table | 
 | CovalentRadius | Covalent bond radius of atoms | 
-| Electronegativity | Mass of the atom | 
-| AtomicWeight | Electronegativity of atoms | 
-| ... | ... | 
+| Electronegativity | Electronegativity  of the atom | 
+| Ns, Np, Nd, Nf, N Valence | s, p, d, f, total valence electron number of atoms | 
+| Ns, Np, Nd, Nf, N Unfilled | s, p, d, f, total unfilled electron number of atoms | 
+|PBE_PRACOR |  Partial core radius in VASP PBE-POTCAR file   | 
+|PBE_RCORE | Outmost cutoff radius in VASP PBE-POTCAR file |  
+|GSvolume_pa |  Volume of elemental monomers at atmospheric pressure in the ground state  |  
+| GSmagmom  | Elemental singlet magnetism at ground state atmospheric pressure  |  
+|SpaceGroupNumber | Number of the space group in which the elemental monomers are located  |  
+
+
   
 See the Supporting Information of **Cuprate superconducting materials above liquid nitrogen temperature from machine learning** for complete table.
 
