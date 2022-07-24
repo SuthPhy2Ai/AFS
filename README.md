@@ -36,10 +36,11 @@ e.g. Max(Formula=Cu1Cr1O2,Feature=Number)--→The largest element in the periodi
 | Min | Minimum value of cell processing feature | 
 | Mean | Arithmetic averaging of cell processing feature | 
 | Range | Extreme differences of cell processing feature | 
-| Reduce | Reduced mass-like peration of cell processing feature| 
+| Reduce | Reduced-mass like peration of cell processing feature| 
 
 
  
  
-The Supporting Information of **Cuprate superconducting materials above liquid nitrogen temperature from machine learning** .
+The Supporting Information of **Cuprate superconducting materials above liquid nitrogen temperature from machine learning** .  
+
 For the **model.summary()** of tensorflow including "=====", which makes .ipynb can not preview online. Plase download the .ipynb or browse .PDF online for detial.
