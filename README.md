@@ -26,8 +26,20 @@ The supporting materials of cuprate superconducting materials above liquid nitro
 | GSmagmom  | Elemental singlet magnetism at ground state atmospheric pressure  |  
 |SpaceGroupNumber | Number of the space group in which the elemental monomers are located  |  
 
+**Symbolic vs. Operation of specific values**  
 
-  
-See the Supporting Information of **Cuprate superconducting materials above liquid nitrogen temperature from machine learning** for complete table.
+Vectors composed of physical properties under **cell processing**(Normalization by component proportions)
+e.g. Max(Formula=Cu1Cr1O2,Feature=Number)--→The largest element in the periodic table is the 29th element of Cu, which has a specific gravity of 1/4 = 0.25 in the normalisation process of stoichiometric ratios.
+| Symbolic | Operation |   
+| :----:| :----: |  
+| Max | Maximum value of cell processing feature | 
+| Min | Minimum value of cell processing feature | 
+| Mean | Arithmetic averaging of cell processing feature | 
+| Range | Extreme differences of cell processing feature | 
+| Reduce | Reduced mass-like peration of cell processing feature| 
 
+
+ 
+ 
+The Supporting Information of **Cuprate superconducting materials above liquid nitrogen temperature from machine learning** .
 For the **model.summary()** of tensorflow including "=====", which makes .ipynb can not preview online. Plase download the .ipynb or browse .PDF online for detial.
